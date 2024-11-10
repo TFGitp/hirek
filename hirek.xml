@@ -25,4 +25,9 @@
             <datum></datum>
         </hir>
     </hirek>
+    <style>
+        #teszt {
+            font-size: 20rem;
+        }
+    </style>
 </tfg>
