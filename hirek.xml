@@ -27,7 +27,8 @@
     </hirek>
     <style>
         #teszt {
-            font-size: 20rem;
+            font-size: 2rem;
+            font-weight: bolder;
         }
     </style>
 </tfg>
