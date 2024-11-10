@@ -3,14 +3,14 @@
         <hir>
             <id>fitnesstanc</id>
             <title>Fitness tánc és aerobic</title>
-            <szoveg>
-                Az iskola és a DÖK támogatásával fitness tánc és aerobic óra indul az iskolában. Tájékoztató és megbeszélés 2024. November 11. hétfő, a 4 óra utáni szünetben a kémia előadóban.
-                Oktató: Mártonné Majoros Erika, Fitness Instruktor, Aerobic Oktató.
-                Előzetes jelentkezés szüksegés:
-                - e-mailben: martonmajorosfitness@gmail.com
-                - telefonon: +36306170794
-                Vagy Liszkai Judit DÖK Patronáló Oktatónál.
-                Az óra önköltséges!
+            <szoveg><![CDATA[
+                <p id="teszt">Az iskola és a DÖK támogatásával <b>fitness tánc</b> és <i>aerobic óra</i> indul az iskolában.</p>
+                <ul>
+                    <li>Oktató: Mártonné Majoros Erika, Fitness Instruktor</li>
+                    <li>Email: martonmajorosfitness@gmail.com</li>
+                </ul>
+                <p>Az óra önköltséges!</p>
+                ]]>
             </szoveg>
             <img>https://c.tenor.com/Jc9jT66AJRwAAAAd/tenor.gif</img>
             <datum></datum>
