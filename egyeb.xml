@@ -10,6 +10,14 @@
           <h1>Ez egy TFG hír GitHub-ról</h1>
         ]]>
       </hir>
+      <hir>
+          <![CDATA[
+              <h1 onclick="alert('Kérdés esetén forduljatok Fercsák Bélához, szeretettel vár mindenkit!')">❗️A Halloween buli eltolódik❗️</h1>
+          ]]>
+      </hir>
+         <![CDATA[
+              <h1 onclick="alert('TFG Discord szerverre ezzel a linkkel tudtok csatlakozni.')">🔗TFG Discord: discord.gg/kSDG9mQs6R🔗</h1>
+         ]]>
     </fontoshir>
     <beallitasok>
         <lezarva>false</lezarva>
