@@ -11,4 +11,23 @@
         ]]>
       </hir>
     </fontoshir>
+    <beallitasok>
+        <lezarva>true</lezarva>
+        <aljatekok>true</aljatekok>
+    </beallitasok>
+    <menetrend>
+        <![CDATA[
+            <ul>
+              <li>1. 07:50-08:35</li>
+              <li>2. 08:40-09:25</li>
+              <li>3. 09:35-10:20</li>
+              <li>4. 10:30-11:15</li>
+              <li>5. 11:25-12:10</li>
+              <li>6. 12:15-13:00</li>
+              <li>7. 13:05-13:50</li>
+              <li>8. 13:55-14:40</li>
+              <li>9. 14:45-15:30</li>
+            </ul>
+        ]]>
+    </menetrend>
 </tfg>
