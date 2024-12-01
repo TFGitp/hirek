@@ -17,7 +17,7 @@
       </hir>
       <hir>
         <![CDATA[
-              <h1 onclick="alert('TFG Discord szerverre ezzel a linkkel tudtok csatlakozni.')">🔗TFG Discord: discord.gg/kSDG9mQs6R🔗</h1>
+              <h1 onclick="Swal.fire('TFG Discord szerverre ezzel a linkkel tudtok csatlakozni.', 'info')">🔗TFG Discord: discord.gg/kSDG9mQs6R🔗</h1>
          ]]>
       </hir>
     </fontoshir>
