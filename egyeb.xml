@@ -24,7 +24,7 @@
     <beallitasok>
         <lezarva>false</lezarva>
         <aljatekok>true</aljatekok>
-        <dcinterval>5</dcinterval>
+        <dcinterval>3</dcinterval>
     </beallitasok>
     <menetrend>
         <![CDATA[
