@@ -16,6 +16,27 @@
             <datum></datum>
         </hir>
         <hir>
+            <id>valentinnap</id>
+            <title>💘Valentin nap💘</title>
+            <szoveg><![CDATA[
+                    <h1>A DÖK következő időszakában tervezett programjai</h1>
+    <ul>
+        <li>Február első hete: <strong>DÖK tisztújító közgyűlése</strong> (erre várjuk a meghirdetett pozíciókra a jelentkezést)</li>
+        <li class="important">Nagyon fontos, hogy csak az jelentkezzen DÖK tagnak, aki felelősségteljesen tudja kezelni a rá bízott feladatokat.</li>
+        <li>Február 14. (péntek): <strong>Valentin nap</strong></li>
+        <li>Február 20.: <strong>Farsangi mulatság</strong> (ennek a részletes programjairól tájékoztatást fogunk adni a TFG Sulirádió oldalán)</li>
+    </ul>
+    <div class="contact">
+        <p>Kérdés esetén forduljatok:</p>
+        <ul>
+            <li><b>Liszkai Judit</b>, DÖK patronáló tanárnő</li>
+            <li><b>Fercsák Béla</b>, 12.E osztályos tanuló</li>
+        </ul>
+    </div>]]>
+            </szoveg>
+            <datum></datum>
+        </hir>
+        <hir>
             <id>tesztnek</id>
             <title>Teszt</title>
             <szoveg>
@@ -30,5 +51,39 @@
             font-size: 2rem;
             font-weight: bolder;
         }
+
+            body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        background-color: #f4f4f9;
+    }
+    h1 {
+        color: #333;
+        text-align: center;
+    }
+    ul {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    .important {
+        font-weight: bold;
+        color: #d9534f;
+    }
+    .contact {
+        margin-top: 20px;
+        padding: 10px;
+        background-color: #e9ecef;
+        border-radius: 5px;
+        font-size: 0.9em;
+    }
+    .contact b {
+        color: #333;
+    }
     </style>
 </tfg>
