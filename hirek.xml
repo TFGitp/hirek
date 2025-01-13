@@ -1,21 +1,6 @@
 <tfg>
     <hirek>
         <hir>
-            <id>fitnesstanc</id>
-            <title>Fitness tánc és aerobic</title>
-            <szoveg><![CDATA[
-                <p id="teszt">Az iskola és a DÖK támogatásával <b>fitness tánc</b> és <i>aerobic óra</i> indul az iskolában.</p>
-                <ul>
-                    <li>Oktató: Mártonné Majoros Erika, Fitness Instruktor</li>
-                    <li>Email: martonmajorosfitness@gmail.com</li>
-                </ul>
-                <p>Az óra önköltséges!</p>
-                ]]>
-            </szoveg>
-            <img>https://c.tenor.com/Jc9jT66AJRwAAAAd/tenor.gif</img>
-            <datum></datum>
-        </hir>
-        <hir>
             <id>dokprogramok</id>
             <title>DÖK programok</title>
             <szoveg><![CDATA[
