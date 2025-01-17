@@ -23,6 +23,23 @@
             <datum></datum>
         </hir>
     </hirek>
+    <hirek>
+        <id>valentinnap</id>
+        <title>Valentin napi üzenetküldés</title>
+        <szoveg>
+            <![CDATA[
+    <p>Sziasztok! <span class="highlight">2025.02.14-én</span> a <span class="highlight">DÖK</span> jóvoltából ismét lehetőségetek lesz üzenetküldésre Valentin nap alkalmából, amit a segítőink kikézbesítenek.</p>
+    <p><span class="highlight">2.3.4. óra után</span> a hátsó aulában tudjátok megírni az üzeneteket. Első oldalra írjátok, akinek üzened, és az osztályát. A belső oldalra pedig azt, amit üzensz neki!</p>
+    <p><span class="highlight">Gyertek és üzenjetek!</span></p>
+    <p>Szeretettel: <span class="highlight">DÖK</span></p>
+
+    <a href="https://www.example.com" class="image-link" target="_blank">
+        <img src="https://via.placeholder.com/200x150.png?text=Valentin+nap" alt="Valentin napi kép">
+    </a>]]>
+        </szoveg>
+        <img>https://via.placeholder.com/200x150.png?text=Valentin+nap</img>
+        <datum></datum>
+    </hirek>
     <style>
         #teszt {
             font-size: 2rem;
@@ -61,6 +78,48 @@
     }
     .contact b {
         color: #333;
+    }
+
+
+        body {
+        font-family: Arial, sans-serif;
+        background-color: #ffe6e6;
+        color: #333;
+        margin: 0;
+        padding: 20px;
+        text-align: center;
+    }
+
+    h1 {
+        color: #e60073;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+    .highlight {
+        font-weight: bold;
+        color: #cc0052;
+    }
+
+    .image-link {
+        margin-top: 20px;
+        display: inline-block;
+    }
+
+    .image-link img {
+        width: 200px;
+        height: auto;
+        border: 2px solid #e60073;
+        border-radius: 10px;
+    }
+
+    .footer {
+        margin-top: 20px;
+        font-size: 16px;
+        color: #666;
     }
     </style>
 </tfg>
