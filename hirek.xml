@@ -33,7 +33,7 @@
     <p>Szeretettel: <span class="highlight">DÖK</span></p>
         <img src="https://charmclub.hu/wp-content/uploads/valentin-nap-tortenete.jpg" alt="Valentin napi kép">]]>
            </szoveg>
-           <img>https://charmclub.hu/wp-content/uploads/valentin-nap-tortenete.jpg</img>
+           <img style="height: 800px; weight: 800px">https://charmclub.hu/wp-content/uploads/valentin-nap-tortenete.jpg</img>
            <datum></datum>
         </hir>
     </hirek>
