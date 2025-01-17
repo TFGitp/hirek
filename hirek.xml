@@ -32,10 +32,7 @@
     <p><span class="highlight">2.3.4. óra után</span> a hátsó aulában tudjátok megírni az üzeneteket. Első oldalra írjátok, akinek üzened, és az osztályát. A belső oldalra pedig azt, amit üzensz neki!</p>
     <p><span class="highlight">Gyertek és üzenjetek!</span></p>
     <p>Szeretettel: <span class="highlight">DÖK</span></p>
-
-    <a href="https://www.example.com" class="image-link" target="_blank">
-        <img src="https://via.placeholder.com/200x150.png?text=Valentin+nap" alt="Valentin napi kép">
-    </a>]]>
+        <img src="https://via.placeholder.com/200x150.png?text=Valentin+nap" alt="Valentin napi kép">]]>
         </szoveg>
         <img>https://via.placeholder.com/200x150.png?text=Valentin+nap</img>
         <datum></datum>
