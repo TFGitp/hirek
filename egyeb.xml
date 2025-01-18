@@ -26,7 +26,7 @@
             <img>https://szerencsi-tokaji.cms.intezmeny.edir.hu/uploads/medium_ballagas_2024_IMG_20240504_102807_4358d90250.jpg</img>
         </fohatter>
         <lezarva>false</lezarva>
-        <aljatekok>false</aljatekok>
+        <aljatekok>true</aljatekok>
         <dcinterval>3</dcinterval>
     </beallitasok>
     <menetrend>
