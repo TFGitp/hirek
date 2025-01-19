@@ -897,7 +897,7 @@
 11.E i;11.E informatika;Kedd;Angol nyelv;DNM;F001 (10.A);11.E angol;egyoras;2csoport;09:35-10:20 3;rgb(255, 255, 230);
 11.E i;11.E informatika;Kedd;Adatbázis-kezelés I.;BPÉ;Inf3-cisc;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(249, 209, 134);
 11.E i;11.E informatika;Kedd;IKT projektmunka II.;AM;Inf3-cisc;nincs;triplaoras;nincscsoport;11:25-13:50 7;rgb(192, 224, 138);
-11.E i;11.E informatika;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.E i;11.E informatika;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.E i;11.E informatika;Szerda;Magyar irodalom;JCsIné;E302/2 (11.E);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(128, 128, 255);
 11.E i;11.E informatika;Szerda;Szakmai angol;DNM;t.angol;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(255, 255, 230);
 11.E i;11.E informatika;Szerda;Történelem;AJE;E302/2 (11.E);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(247, 150, 136);
