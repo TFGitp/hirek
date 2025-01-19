@@ -689,7 +689,7 @@
 11.A n;11.A nyelv;Kedd;Német nyelv;LR;F003 (11.A);11.A német 2;egyoras;4csoport;11:25-12:10 5;rgb(255, 192, 224);
 11.A n;11.A nyelv;Kedd;Kínai nyelv;CX;K;11.A kínai, 11.B kínai;egyoras;4csoport;11:25-12:10 5;rgb(236, 211, 164);
 11.A n;11.A nyelv;Kedd;Magyar irodalom;MKJ;F003 (11.A);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(220, 163, 209);
-11.A n;11.A nyelv;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:05-14:40 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.A n;11.A nyelv;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.A n;11.A nyelv;Szerda;Angol nyelv;MJAO;F003 (11.A);11.A angol nyelv1 A;egyoras;3csoport;07:50-08:35 1;rgb(179, 179, 179);
 11.A n;11.A nyelv;Szerda;Német nyelv;PLB;tetőlab;11.A német 1;egyoras;3csoport;07:50-08:35 1;rgb(138, 224, 128);
 11.A n;11.A nyelv;Szerda;Angol nyelv;NFM;E215 (10.E);11.A angol nyelv1 B;egyoras;3csoport;07:50-08:35 1;rgb(128, 255, 224);
@@ -710,7 +710,7 @@
 11.A n;11.A nyelv;Csütörtök;Kínai nyelv;CX;K;11.A kínai, 11.B kínai;egyoras;4csoport;10:30-11:15 4;rgb(236, 211, 164);
 11.A n;11.A nyelv;Csütörtök;Művészetek;KÖK;F003 (11.A);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(128, 192, 255);
 11.A n;11.A nyelv;Csütörtök;Testnevelés;CsB;sp5;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(238, 255, 203);
-11.A n;11.A nyelv;Csütörtök;11fakultáció 4;ELZ, ToG, TFG;biel, Inf1-ecdl, t.német, F003 (11.A);nincs;duplaoras;nincscsoport;13:05-14:40 8;linear-gradient(146.14deg, rgb(204, 255, 179) 0%, rgb(204, 255, 179) 33.3333%, rgb(204, 204, 204) 33.3333%, rgb(204, 204, 204) 66.6667%, rgb(224, 138, 255) 66.6667%, rgb(224, 138, 255) 100%);
+11.A n;11.A nyelv;Csütörtök;11fakultáció 4;ELZ, ToG, TFG;biel, Inf1-ecdl, t.német, F003 (11.A);nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(146.14deg, rgb(204, 255, 179) 0%, rgb(204, 255, 179) 33.3333%, rgb(204, 204, 204) 33.3333%, rgb(204, 204, 204) 66.6667%, rgb(224, 138, 255) 66.6667%, rgb(224, 138, 255) 100%);
 11.A n;11.A nyelv;Péntek;Digitális kultúra;HD;inf5-gep;11.A digi B;egyoras;2csoport;07:50-08:35 1;rgb(128, 216, 128);
 11.A n;11.A nyelv;Péntek;Digitális kultúra;BAI;Inf3-cisc;11.A digi A;egyoras;2csoport;07:50-08:35 1;rgb(238, 255, 203);
 11.A n;11.A nyelv;Péntek;Matematika;OSzZs;F003 (11.A);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(255, 128, 192);
@@ -747,7 +747,7 @@
 11.B b;11.B biológia-belügy;Kedd;Kínai nyelv;CX;K;11.A kínai, 11.B kínai;egyoras;4csoport;11:25-12:10 5;rgb(236, 211, 164);
 11.B b;11.B biológia-belügy;Kedd;Művészetek;KÖK;könyv;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(128, 192, 255);
 11.B b;11.B biológia-belügy;Kedd;Testnevelés;GYL;sp1;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 128, 255);
-11.B b;11.B biológia-belügy;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.B b;11.B biológia-belügy;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.B b;11.B biológia-belügy;Szerda;Történelem;AJE;Ö025 (11.B);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(247, 150, 136);
 11.B b;11.B biológia-belügy;Szerda;Matematika;KHGy;Ö025 (11.B);11.B belügy cs;egyoras;2csoport;08:40-09:25 2;rgb(230, 179, 128);
 11.B b;11.B biológia-belügy;Szerda;Biológia;NDN;biel;11.B biológia cs;egyoras;2csoport;08:40-09:25 2;rgb(128, 255, 255);
@@ -804,7 +804,7 @@
 11.C g;11.C gazdálkodás-sport;Kedd;Sportszervezési ismeretek;FGy;E215 (10.E);11.C sport;egyoras;2csoport;12:15-13:00 6;rgb(128, 208, 224);
 11.C g;11.C gazdálkodás-sport;Kedd;Terhelésélettan;FGy;E102 (11.C);11.C sport;egyoras;2csoport;13:05-13:50 7;rgb(128, 208, 224);
 11.C g;11.C gazdálkodás-sport;Kedd;Ügyfélszolgálati kommunikáció;MC;Inf2-prog;11.C gazd;egyoras;2csoport;13:05-13:50 7;rgb(255, 224, 224);
-11.C g;11.C gazdálkodás-sport;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.C g;11.C gazdálkodás-sport;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.C g;11.C gazdálkodás-sport;Szerda;Dokumentumszerkesztés;GyM;Inf1-ecdl;11.C gazd;egyoras;2csoport;07:50-08:35 1;rgb(252, 246, 131);
 11.C g;11.C gazdálkodás-sport;Szerda;Edzéselmélet II.;GYL;E102 (11.C);11.C sport;egyoras;2csoport;07:50-08:35 1;rgb(255, 128, 255);
 11.C g;11.C gazdálkodás-sport;Szerda;Osztályfőnöki;TA;E102 (11.C);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(128, 224, 228);
@@ -859,7 +859,7 @@
 11.D o;11.D oktatás;Kedd;Értékteremtő gyermeknevelés;MÁ;E103 (11.D);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(230, 255, 255);
 11.D o;11.D oktatás;Kedd;Testnevelés/Mozgáskultúra;FCSG;sp3;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(128, 230, 128);
 11.D o;11.D oktatás;Kedd;Magyar irodalom;MKJ;F002 (12.A);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(220, 163, 209);
-11.D o;11.D oktatás;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.D o;11.D oktatás;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.D o;11.D oktatás;Szerda;Pedagógiai gyakorlat;MÁ;E103 (11.D);11.D oktatás OSZ;triplaoras;2csoport;07:50-10:20 1;rgb(230, 255, 255);
 11.D o;11.D oktatás;Szerda;Óvodai gyakorlat;CsSné;a;11.D oktatás ON;triplaoras;2csoport;07:50-10:20 3;rgb(128, 255, 128);
 11.D o;11.D oktatás;Szerda;Óvodai gyakorlat;MÁ;E103 (11.D);11.D oktatás ON;duplaoras;2csoport;10:30-12:10 4;rgb(230, 255, 255);
@@ -897,7 +897,7 @@
 11.E i;11.E informatika;Kedd;Angol nyelv;DNM;F001 (10.A);11.E angol;egyoras;2csoport;09:35-10:20 3;rgb(255, 255, 230);
 11.E i;11.E informatika;Kedd;Adatbázis-kezelés I.;BPÉ;Inf3-cisc;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(249, 209, 134);
 11.E i;11.E informatika;Kedd;IKT projektmunka II.;AM;Inf3-cisc;nincs;triplaoras;nincscsoport;11:25-13:50 7;rgb(192, 224, 138);
-11.E i;11.E informatika;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.E i;11.E informatika;11fakultáció 2;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.E i;11.E informatika;Szerda;Magyar irodalom;JCsIné;E302/2 (11.E);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(128, 128, 255);
 11.E i;11.E informatika;Szerda;Szakmai angol;DNM;t.angol;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(255, 255, 230);
 11.E i;11.E informatika;Szerda;Történelem;AJE;E302/2 (11.E);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(247, 150, 136);
@@ -935,7 +935,7 @@
 11.F r;11.F rendészet és közszolgálat;Kedd;Digitális kommunikáció és gépírás;GyM;Inf1-ecdl;nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(252, 246, 131);
 11.F r;11.F rendészet és közszolgálat;Kedd;Magyar nyelv;GZ;E201 (11.F);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(255, 255, 128);
 11.F r;11.F rendészet és közszolgálat;Kedd;Osztályfőnöki;PPJ;E201 (11.F);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(138, 224, 152);
-11.F r;11.F rendészet és közszolgálat;Kedd;11fakultáció 2;5 Tanárok;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
+11.F r;11.F rendészet és közszolgálat;TÁ, KG, NDN, CsB, EK;F003 (11.A), biel, sp1;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.F r;11.F rendészet és közszolgálat;Szerda;Magyar irodalom;GZ;E201 (11.F);nincs;duplaoras;nincscsoport;07:50-09:25 2;rgb(255, 255, 128);
 11.F r;11.F rendészet és közszolgálat;Szerda;Önvédelem;PPJ;sp1;nincs;duplaoras;nincscsoport;09:35-11:15 4;rgb(138, 224, 152);
 11.F r;11.F rendészet és közszolgálat;Szerda;Matematika;KG;E201 (11.F);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 128, 192);
@@ -988,7 +988,7 @@
 12.A n;12.A nyelv;Szerda;Testnevelés;CsB;sp3;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(238, 255, 203);
 12.A n;12.A nyelv;Szerda;Német nyelv;LR;t.német;12.A német 1;egyoras;2csoport;13:05-13:50 7;rgb(255, 192, 224);
 12.A n;12.A nyelv;Szerda;Angol nyelv;HBI;F002 (12.A);12.A angol nyelv1;egyoras;2csoport;13:05-13:50 7;rgb(253, 157, 157);
-12.A n;12.A nyelv;Szerda;12fakultáció 3;EZ, SZT;E102 (11.C), biel;nincs;duplaoras;nincscsoport;13:55-15:30 9;LINEAR GRADIENT Háttér
+12.A n;12.A nyelv;Szerda;12fakultáció 3;EZ, SZT;E102 (11.C), biel;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(161.454deg, rgb(128, 192, 255) 0%, rgb(128, 192, 255) 50%, rgb(176, 138, 224) 50%, rgb(176, 138, 224) 100%);
 12.A n;12.A nyelv;Csütörtök;Német nyelv;LR;t.német;12.A német 1;egyoras;2csoport;07:50-08:35 1;rgb(255, 192, 224);
 12.A n;12.A nyelv;Csütörtök;Angol nyelv;HBI;F002 (12.A);12.A angol nyelv1;egyoras;2csoport;07:50-08:35 1;rgb(253, 157, 157);
 12.A n;12.A nyelv;Csütörtök;Történelem;AJE;F002 (12.A);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(247, 150, 136);
@@ -998,7 +998,7 @@
 12.A n;12.A nyelv;Csütörtök;Angol nyelv;NFM;F002 (12.A);12.A angol nyelv2;egyoras;4csoport;11:25-12:10 5;rgb(128, 255, 224);
 12.A n;12.A nyelv;Csütörtök;Német nyelv;PLB;tetőlab;12.A német 2;egyoras;4csoport;11:25-12:10 5;rgb(138, 224, 128);
 12.A n;12.A nyelv;Csütörtök;Kínai nyelv;CX;K;12.A kínai, 12.B kínai;egyoras;4csoport;11:25-12:10 5;rgb(236, 211, 164);
-12.A n;12.A nyelv;Csütörtök;12fakultáció 4;KHGy, BoJ, MK;5 Tantermek;nincs;duplaoras;nincscsoport;12:15-13:50 7;linear-gradient(146.14deg, rgb(230, 179, 128) 0%, rgb(230, 179, 128) 33.3333%, rgb(255, 230, 179) 33.3333%, rgb(255, 230, 179) 66.6667%, rgb(224, 224, 128) 66.6667%, rgb(224, 224, 128) 100%);
+12.A n;12.A nyelv;Csütörtök;12fakultáció 4;KHGy, BoJ, MK;5 Tantermek;nincs;duplaoras;nincscsoport;13:55-15:30 8;linear-gradient(146.14deg, rgb(230, 179, 128) 0%, rgb(230, 179, 128) 33.3333%, rgb(255, 230, 179) 33.3333%, rgb(255, 230, 179) 66.6667%, rgb(224, 224, 128) 66.6667%, rgb(224, 224, 128) 100%);
 12.A n;12.A nyelv;Péntek;Matematika;KG;F002 (12.A);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(192, 128, 192);
 12.A n;12.A nyelv;Péntek;Francia nyelv;EK;E213 (9.F);12.A francia 2, 12.B francia;egyoras;4csoport;08:40-09:25 2;rgb(245, 154, 131);
 12.A n;12.A nyelv;Péntek;Angol nyelv;NFM;F001 (10.A);12.A angol nyelv2;egyoras;4csoport;08:40-09:25 2;rgb(128, 255, 224);
@@ -1042,7 +1042,7 @@
 12.B b;12.B biológia-belügy;Szerda;Német nyelv;KBM;t.német;12.B német1;egyoras;2csoport;11:25-12:10 5;rgb(255, 224, 128);
 12.B b;12.B biológia-belügy;Szerda;Angol nyelv;EHZ;Ö025 (11.B);12.B angol2;egyoras;4csoport;12:15-13:00 6;rgb(255, 192, 128);
 12.B b;12.B biológia-belügy;Szerda;Német nyelv;CsG;E104 (10.D);12.B német2 ;egyoras;4csoport;12:15-13:00 6;rgb(179, 255, 255);
-12.B b;12.B biológia-belügy;Szerda;12fakultáció 3;EZ, SZT;E102 (11.C), biel;nincs;duplaoras;nincscsoport;13:05-14:40 8;LINEAR GRADIENT Háttér
+12.B b;12.B biológia-belügy;Szerda;12fakultáció 3;EZ, SZT;E102 (11.C), biel;nincs;duplaoras;nincscsoport;13:05-14:40 8;linear-gradient(161.454deg, rgb(128, 192, 255) 0%, rgb(128, 192, 255) 50%, rgb(176, 138, 224) 50%, rgb(176, 138, 224) 100%);
 12.B b;12.B biológia-belügy;Csütörtök;Kémia;SZT;kémia;12.B biológia cs;egyoras;2csoport;07:50-08:35 1;rgb(176, 138, 224);
 12.B b;12.B biológia-belügy;Csütörtök;Belügyi rendészeti ismeretek;KPA;E216 (12.B);12.B belügy cs;negyoras;2csoport;07:50-11:15 4;rgb(255, 128, 192);
 12.B b;12.B biológia-belügy;Csütörtök;Biológia;SZT;flabor;12.B biológia cs;triplaoras;2csoport;11:25-13:50 5;rgb(176, 138, 224);
