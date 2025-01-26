@@ -1,0 +1,18 @@
+<tfg>
+    <konyvek>
+        <konyv>
+            <id>konyv1</id>
+            <title>Konyv neve</title>
+            <szoveg>Ez a konyv xy emberrol szol aki nem tudott lefutni 400 metert regen</szoveg>
+            <img>konyv boritokep</img>
+            <datum></datum>
+        </konyv>
+        <konyv>
+            <id>konyv2</id>
+            <title>Konyv neve</title>
+            <szoveg>Ez a konyv xy emberrol szol aki nem tudott lefutni 400 metert regen</szoveg>
+            <img>konyv boritokep</img>
+            <datum></datum>
+        </konyv>
+    </konyvek>
+</tfg>
