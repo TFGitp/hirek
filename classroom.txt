@@ -1184,7 +1184,7 @@
 12.E i;12.E informatika-környezetvédelem;Szerda;Projektóra;ToG;inf5-gep;12.E info;egyoras;2csoport;09:35-10:20 3;rgb(204, 204, 204);
 12.E i;12.E informatika-környezetvédelem;Szerda;Projektóra;FI;analab;12.E kv;egyoras;2csoport;09:35-10:20 3;rgb(128, 230, 255);
 12.E i;12.E informatika-környezetvédelem;Szerda;Hálózatok I.;AM;Inf3-cisc;12.E info;egyoras;2csoport;10:30-11:15 4;rgb(192, 224, 138);
-12.E i;12.E informatika-környezetvédelem;Szerda;Nincs benne a listában;FI;analab;12.E kv;triplaoras;2csoport;10:30-13:00 6;rgb(128, 230, 255);
+12.E i;12.E informatika-környezetvédelem;Szerda;Analitika;FI;analab;12.E kv;triplaoras;2csoport;10:30-13:00 6;rgb(128, 230, 255);
 12.E i;12.E informatika-környezetvédelem;Szerda;Hálózatok I.;HD;Inf3-cisc;12.E info;egyoras;2csoport;13:05-13:50 7;rgb(128, 216, 128);
 12.E i;12.E informatika-környezetvédelem;Szerda;Szerverek és felhőszolgáltatások;EZ;Inf3-cisc;12.E info;duplaoras;2csoport;13:05-14:40 8;rgb(128, 192, 255);
 12.E i;12.E informatika-környezetvédelem;Szerda;Anyagismeret;SZT;flabor;12.E kv;egyoras;2csoport;14:45-15:30 9;rgb(176, 138, 224);
