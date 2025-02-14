@@ -10,16 +10,6 @@
               <h1 onclick="Swal.fire('', 'TFG Discord szerverre ezzel a linkkel tudtok csatlakozni.', 'info')">🔗TFG Discord: discord.gg/kSDG9mQs6R🔗</h1>
          ]]>
       </hir>
-      <hir>
-        <![CDATA[
-              <h1 onclick="window.location.href='http://localhost:8080/hirek/hir/hir.html?id=dokprogramok'">DÖK programok (kattints ide)</h1>
-         ]]>
-      </hir>
-      <hir>
-        <![CDATA[
-          <h1>🎶Zene szolgáltatás májusig szünetel🎶</h1>
-        ]]>
-      </hir>
     </fontoshir>
     <beallitasok>
         <fohatter>
