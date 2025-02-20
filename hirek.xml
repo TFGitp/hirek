@@ -1,28 +1,6 @@
 <tfg>
     <hirek>
         <hir>
-            <id>dokprogramok</id>
-            <title>DÖK programok</title>
-            <szoveg><![CDATA[
-                    <h1>A DÖK következő időszakában tervezett programjai</h1>
-    <ul>
-        <li>Február 10. (hétfő): <strong>DÖK tisztújító közgyűlése</strong> (erre várjuk a meghirdetett pozíciókra a jelentkezést). Jelentkezni január 31-ig.<br>Itt: <strong>liszkai.judit@szerencsiszc.hu</strong> gmail címen!</li>
-        <li class="important">Nagyon fontos, hogy csak az jelentkezzen DÖK tagnak, aki felelősségteljesen tudja kezelni a rá bízott feladatokat.</li>
-        <li>Február 14. (péntek): <strong>Valentin nap, üzenet küldés a hátsó aulában!</strong></li>
-        <li>Február 20. (csütörtök): <strong>Farsangi mulatság</strong> (ennek a részletes programjairól tájékoztatást fogunk adni a tfg_suliradio_ instagram oldalán)</li>
-    </ul>
-    <div class="contact">
-        <p>Kérdés esetén forduljatok:</p>
-        <ul>
-            <li><b>Liszkai Judit</b>, DÖK patronáló tanárnő</li>
-            <li><b>Fercsák Béla</b>, 12.E osztályos tanuló</li>
-        </ul>
-    </div>]]>
-            </szoveg>
-            <img>https://gyulaisuli.hu/wp-content/uploads/2023/08/doklogo2.png</img>
-            <datum></datum>
-        </hir>
-        <hir>
            <id>valentinnap</id>
            <title>Valentin napi üzenetküldés</title>
            <szoveg>
