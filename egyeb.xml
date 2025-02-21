@@ -7,11 +7,6 @@
       </hir>
       <hir>
         <![CDATA[
-          <h1>Elérhető a könyvek, versek menü!</h1>
-        ]]>
-      </hir>
-      <hir>
-        <![CDATA[
               <h1 onclick="Swal.fire('', 'TFG Discord szerverre ezzel a linkkel tudtok csatlakozni.', 'info')">🔗TFG Discord: discord.gg/kSDG9mQs6R🔗</h1>
          ]]>
       </hir>
