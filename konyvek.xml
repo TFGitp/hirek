@@ -39,18 +39,30 @@
             <datum>2025.02.21</datum>
         </konyv>
         <konyv>
-            <id>pinkeattilaotven</id>
-            <szerzo>Pinke Attila</szerzo>
-            <cim>50 leggyakoribb kriptós hiba</cim>
+            <id>aldoushuxleyszepujvilag</id>
+            <szerzo>Aldous Huxley</szerzo>
+            <cim>Szép új világ</cim>
             <szoveg>
             <![CDATA[
-                <p>Az 50 leggyakoribb kriptós hiba kielemezve
-                Egy könyv, ami milliókat menthet meg neked
-                Tudás, amivel a sikeres kriptósok táborát erősítheted</p>
+                <p>2540-ben a Boldogságra való puszta törekvés immár kevés, ha egyszer még az Életnél is több, a holtig tartó Ifjúság elidegeníthetetlen joga is mindenkinek megadatott. Ki bánja, ha közben a Szabadság és Egyenloség hiú eszméi s megannyi más kacat - muvészet, hit, az önmagáért valótudás - mind oda került, ahová való: a történelem szemétdombjára!Mert aki mást, úgymond, többet akar - Istent, költészetet, jóságot, szabadságot, olykor a magány csendjét vagy épp a bun katarzisát -, az nem akar mást, mint a boldogtalanságot.Az efféle Vadembernek a Világellenorök jóindulatú bölcsességgel kormányozott világállamában nincs helye. Jobban teszi hát, ha a földgolyó egy távoli zugába húzódva a sötét múlt kínjaival sanyargatja magát: ínséggel, betegséggel, hideggel, forrósággal, gyötro szenvedéssel és gyilkos szenvedéllyel.Netán egy Shakespeare nevu, rég halott rajongó összegyujtött muveinek forgatásával. Vagy Huxley olvasásával - mondjuk egy "Szép új világ" címu könyvvel.</p>
             ]]>
             </szoveg>
-            <tag>Könyv,Kriptó</tag>
-            <img>https://www.blockchainbloom.com/wp-content/uploads/2024/11/50-leggyakoribb-kriptos-hiba-400x400.jpg</img>
+            <tag>Könyv</tag>
+            <img>https://s01.static.libri.hu/cover/8b/e/6705439_4.jpg</img>
+            <datum>2025.02.22</datum>
+        </konyv>
+        <konyv>
+            <id>suzannecollinsehezok</id>
+            <szerzo>Suzanne Collins</szerzo>
+            <cim>Az Éhezők Viadala</cim>
+            <szoveg>
+            <![CDATA[
+                <p>Életben tudsz maradni egy olyan vadonban, ahol mindenki az életedre tör? Észak-Amerika romjain ma Panem országa, a ragyogó Kapitólium és a tizenkét távoli körzet fekszik. A Kapitólium kegyetlenül bánik Panem lakóival: minden évben, minden körzetből kisorsolnak egy-egy tizenkét és tizennyolc év közötti fiút és lányt, akiknek részt kell venniük Az Éhezők Viadalán. Az életre-halálra zajló küzdelmet élőben közvetíti a tévé. A tizenhat éves Katniss Everdeen egyedül él a húgával és az anyjával a Tizenkettedik Körzetben. Amikor a húgát kisorsolják, Katniss önként jelentkezik helyette a Viadalra, ez pedig felér egy halálos ítélettel. De Katniss már nem először néz farkasszemet a halállal - számára a túlélés a mindennapok része. Ha győzni akar, olyan döntéseket kell hoznia, ahol az életösztön szembe kerül az emberséggel, az élet pedig a szerelemmel.</p>
+                <p>Suzanne Collins trilógiája az utóbbi évek legnagyobb nemzetközi könyvsikere, amely hónapokon át vezette az eladási listákat a világ számos országában. 2012 márciusában pedig a mozikba kerül Az Éhezők Viadala filmváltozata, Jennifer Lawrence-szel a főszerepben.</p>
+            ]]>
+            </szoveg>
+            <tag>Könyv</tag>
+            <img>https://s01.static.libri.hu/cover/b1/d/835975_4.jpg</img>
             <datum>2025.02.22</datum>
         </konyv>
     </konyvek>
