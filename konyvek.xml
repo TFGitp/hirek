@@ -20,12 +20,28 @@
             <cim>Never Finished</cim>
             <szoveg>
             <![CDATA[
-                AAA
+                <p>David Goggins elképesztő sikerű <em>Nincs hatalmad felettem</em> című memoárja óta tudjuk, mennyi kihasználatlan képesség szunnyad bennünk.</p>
+                <p>Most pedig részletekbe menő útmutatót kapunk az elménkben rejlő lehetőségek megismeréséhez. Bevezet minket a "mentális laborjába", és bemutatja, milyen stratégiák segítségével ismerte fel, hogy amit ő végső korlátnak gondolt, az valójában csak a kezdet, és így képes volt számos alkalommal túlszárnyalni önmagát.</p> 
             ]]>
             </szoveg>
             <tag>Könyv,Fegyelem</tag>
             <img>https://hvgkonyvek.hu/resources/images/a7/2o/x3/product_main_image/borito-draftnever-finished-cover-darft-v3b.jpg</img>
             <datum>2025.02.21</datum>
+        </konyv>
+        <konyv>
+            <id>pinkeattilaotven</id>
+            <szerzo>Pinke Attila</szerzo>
+            <cim>50 leggyakoribb kriptós hiba</cim>
+            <szoveg>
+            <![CDATA[
+                <p>Az 50 leggyakoribb kriptós hiba kielemezve
+                Egy könyv, ami milliókat menthet meg neked
+                Tudás, amivel a sikeres kriptósok táborát erősítheted</p>
+            ]]>
+            </szoveg>
+            <tag>Könyv,Kriptó</tag>
+            <img>https://www.blockchainbloom.com/wp-content/uploads/2024/11/50-leggyakoribb-kriptos-hiba-400x400.jpg</img>
+            <datum>2025.02.22</datum>
         </konyv>
     </konyvek>
 </tfg>
