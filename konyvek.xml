@@ -15,6 +15,7 @@
             ]]>
             </szoveg>
             <tag>Könyv,Fegyelem</tag>
+            <classtag>konyv,fegyelem</classtag>
             <img>https://libris.to/media/jacket/43633036_can-t-hurt-me.jpg</img>
             <datum>2025.02.21</datum>
         </konyv>
@@ -35,6 +36,7 @@
             ]]>
             </szoveg>
             <tag>Könyv,Fegyelem</tag>
+            <classtag>konyv,fegyelem</classtag>
             <img>https://hvgkonyvek.hu/resources/images/a7/2o/x3/product_main_image/borito-draftnever-finished-cover-darft-v3b.jpg</img>
             <datum>2025.02.21</datum>
         </konyv>
@@ -48,6 +50,7 @@
             ]]>
             </szoveg>
             <tag>Könyv</tag>
+            <classtag>konyv</classtag>
             <img>https://s01.static.libri.hu/cover/8b/e/6705439_4.jpg</img>
             <datum>2025.02.22</datum>
         </konyv>
@@ -62,6 +65,7 @@
             ]]>
             </szoveg>
             <tag>Könyv</tag>
+            <classtag>konyv</classtag>
             <img>https://s01.static.libri.hu/cover/b1/d/835975_4.jpg</img>
             <datum>2025.02.22</datum>
         </konyv>
@@ -76,6 +80,7 @@
             ]]>
             </szoveg>
             <tag>Könyv</tag>
+            <classtag>konyv</classtag>
             <img>https://s01.static.libri.hu/cover/9e/f/9805578_4.jpg</img>
             <datum>2025.02.23</datum>
         </konyv>
