@@ -65,5 +65,19 @@
             <img>https://s01.static.libri.hu/cover/b1/d/835975_4.jpg</img>
             <datum>2025.02.22</datum>
         </konyv>
+        <konyv>
+            <id>wlknowgourmet</id>
+            <szerzo>W. L. Know</szerzo>
+            <cim>Gourmet</cim>
+            <szoveg>
+            <![CDATA[
+                <p>Jerome Villeneuve békésnek hitt élete hirtelen véget ért, amikor étterme leghűségesebb törzsvendége, Agatha Skarbek megtámadta és kiszívta a vérét. Ám ahelyett, hogy csatlakozott volna feleségéhez és gyermekeihez a Pere-Lachaise temetőben, a szeme csak még jobban kinyílt a világra és olyan oldalát ismerte meg, amelynek létezéséről se tudott.</p>
+                <p>Ízérzék nélkül, a naptól rettegve úgy érezte, hogy lehetetlen folytatni a főzést. De az éjszaka népe között olyan új barátokra lelt, mint a Bécs mélyén bújkáló Gomba és a népe vagy a gazdag és karizmatikus Mandarin. A nemlétnek viszont ára van, és ahogy az idő múlik, egyre kevésbé tűnik úgy, hogy meg tudja fizetni.</p>
+            ]]>
+            </szoveg>
+            <tag>Könyv</tag>
+            <img>https://s01.static.libri.hu/cover/9e/f/9805578_4.jpg</img>
+            <datum>2025.02.23</datum>
+        </konyv>
     </konyvek>
 </tfg>
