@@ -36,6 +36,12 @@
         ]]>
     </menetrend>
     <konyvversstyle>
+        .konyv { 
+            background-color: rgba(228, 124, 13);
+        }
+        .vers {
+            background-color: rgba(19, 131, 201);
+        }
         .valentin {
             background-color: rgba(248, 25, 111, 0.5);
         }
