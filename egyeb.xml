@@ -35,4 +35,15 @@
             </ul>
         ]]>
     </menetrend>
+    <konyvversstyle>
+        .valentin {
+            background-color: rgba(248, 25, 111, 0.5);
+        }
+        .fegyelem {
+            background-color: rgba(41, 61, 161, 0.5)
+        }
+        .kuzdelem {
+            background-color: rgba(255, 69, 0, 0.6);
+        }
+    </konyvversstyle>
 </tfg>
