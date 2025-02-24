@@ -519,7 +519,7 @@
 10.C g;10.C gazdálkodás-sport;Péntek;Gazdasági és jogi alapismeretek;TPB;inf5-gep;10.C gazd;egyoras;2csoport;11:25-12:10 5;rgb(255, 230, 255);
 10.C g;10.C gazdálkodás-sport;Péntek;Történelem;MK;E205 (10.C);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(224, 224, 128);
 
-10.D o;10.D oktatás;Hétfő;Testnevelés/Mozgáskultúra;GYL;sp1;nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(255, 128, 255);
+10.D o;10.D oktatás;Hétfő;Testnevelés;GYL;sp1;nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(255, 128, 255);
 10.D o;10.D oktatás;Hétfő;Történelem;AJE;E104 (10.D);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(247, 150, 136);
 10.D o;10.D oktatás;Hétfő;Magyar irodalom;TÁ;E104 (10.D);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(255, 179, 179);
 10.D o;10.D oktatás;Hétfő;Pszichológia;BLGy;E104 (10.D);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(128, 230, 128);
@@ -542,11 +542,11 @@
 10.D o;10.D oktatás;Kedd;Német nyelv;CsG;E204 (12.E);10.B német1, 10.C német, 10.D német1, 10.F német;egyoras;4csoport;11:25-12:10 5;rgb(179, 255, 255);
 10.D o;10.D oktatás;Kedd;Digitális kultúra/Ikt a pedagógiában;BAI;Inf1-ecdl;10.D digi A;egyoras;2csoport;12:15-13:00 6;rgb(238, 255, 203);
 10.D o;10.D oktatás;Kedd;Digitális kultúra/Ikt a pedagógiában;KTA;Inf2-prog;10.D digi B;egyoras;2csoport;12:15-13:00 6;rgb(255, 192, 192);
-10.D o;10.D oktatás;Kedd;Testnevelés/Mozgáskultúra;GYL;sp5;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 128, 255);
+10.D o;10.D oktatás;Kedd;Testnevelés;GYL;sp5;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 128, 255);
 10.D o;10.D oktatás;Kedd;Honvédelmi alapismeretek;SZaT;kémia;10.hon, 10.B hon, 10.C hon, 10.D hon, 10.E hon, 10.F hon;egyoras;2csoport;13:55-14:40 8;rgb(128, 255, 192);
 10.D o;10.D oktatás;Szerda;Matematika;BAI;E104 (10.D);10.D matematika A;egyoras;2csoport;07:50-08:35 1;rgb(238, 255, 203);
 10.D o;10.D oktatás;Szerda;Matematika;SZB;Ö025 (11.B);10.D matematika B;egyoras;2csoport;07:50-08:35 1;rgb(252, 254, 227);
-10.D o;10.D oktatás;Szerda;Testnevelés/Mozgáskultúra;GYL;sp5;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(255, 128, 255);
+10.D o;10.D oktatás;Szerda;Testnevelés;GYL;sp5;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(255, 128, 255);
 10.D o;10.D oktatás;Szerda;Pénzügyi és vállalkozói ismeretek;LJ;E104 (10.D);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 255, 255);
 10.D o;10.D oktatás;Szerda;Magyar irodalom;TÁ;E104 (10.D);nincs;duplaoras;nincscsoport;10:30-12:10 5;rgb(255, 179, 179);
 10.D o;10.D oktatás;Szerda;Zenei nevelés;MK;E104 (10.D);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(224, 224, 128);
@@ -561,7 +561,7 @@
 10.D o;10.D oktatás;Csütörtök;Pedagógiai gyakorlat;KÖK;könyv;10.D oktatás A;duplaoras;2csoport;09:35-11:15 4;rgb(128, 192, 255);
 10.D o;10.D oktatás;Csütörtök;Értékteremtő gyermeknevelés;MÁ;E104 (10.D);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(230, 255, 255);
 10.D o;10.D oktatás;Csütörtök;Magyar irodalom;TÁ;E104 (10.D);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(255, 179, 179);
-10.D o;10.D oktatás;Csütörtök;Testnevelés/Mozgáskultúra;GYL;sp3;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 128, 255);
+10.D o;10.D oktatás;Csütörtök;Testnevelés;GYL;sp3;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 128, 255);
 10.D o;10.D oktatás;Péntek;Történelem;AJE;E104 (10.D);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(247, 150, 136);
 10.D o;10.D oktatás;Péntek;Zenei nevelés;MK;E104 (10.D);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(224, 224, 128);
 10.D o;10.D oktatás;Péntek;Angol nyelv;EHZ;t.angol;10.B kv angol A, 10.D angol A, 10.F angol A;egyoras;4csoport;09:35-10:20 3;rgb(255, 192, 128);
@@ -843,7 +843,7 @@
 11.D o;11.D oktatás;Hétfő;Angol nyelv;KZs;E103 (11.D);11.D angol B;egyoras;3csoport;09:35-10:20 3;rgb(179, 204, 255);
 11.D o;11.D oktatás;Hétfő;Német nyelv;LR;E301 (10.B);11.C német, 11.D német, 11.E német, 11.F német;egyoras;3csoport;09:35-10:20 3;rgb(255, 192, 224);
 11.D o;11.D oktatás;Hétfő;Magyar irodalom;MKJ;E103 (11.D);nincs;duplaoras;nincscsoport;10:30-12:10 5;rgb(220, 163, 209);
-11.D o;11.D oktatás;Hétfő;Testnevelés/Mozgáskultúra;FCSG;sp5;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(128, 230, 128);
+11.D o;11.D oktatás;Hétfő;Testnevelés;FCSG;sp5;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(128, 230, 128);
 11.D o;11.D oktatás;Hétfő;Értékteremtő gyermeknevelés;MÁ;E103 (11.D);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(230, 255, 255);
 11.D o;11.D oktatás;Kedd;Angol nyelv;KA;t.angol;11.D angol A;egyoras;3csoport;07:50-08:35 1;rgb(255, 197, 255);
 11.D o;11.D oktatás;Kedd;Angol nyelv;KZs;E213 (9.F);11.D angol B;egyoras;3csoport;07:50-08:35 1;rgb(179, 204, 255);
@@ -855,7 +855,7 @@
 11.D o;11.D oktatás;Kedd;Pedagógiai gyakorlat;MÁ;E202 (10.F);11.D oktatás OSZ;triplaoras;2csoport;10:30-13:00 6;rgb(230, 255, 255);
 11.D o;11.D oktatás;Kedd;Hatékony pedagógiai kommunikáció;JCsIné;E103 (11.D);11.D oktatás ON;egyoras;2csoport;13:05-13:50 7;rgb(128, 128, 255);
 11.D o;11.D oktatás;Kedd;Gondozás és egészségnevelés;KÖK;könyv;11.D oktatás ON;egyoras;2csoport;13:05-13:50 7;rgb(128, 192, 255);
-11.D o;11.D oktatás;Kedd;Testnevelés/Mozgáskultúra;FCSG;sp2;nincs;egyoras;nincscsoport;13:55-14:40 8;rgb(128, 230, 128);
+11.D o;11.D oktatás;Kedd;Testnevelés;FCSG;sp2;nincs;egyoras;nincscsoport;13:55-14:40 8;rgb(128, 230, 128);
 11.D o;11.D oktatás;Kedd;11fakultáció 2;TÁ, KG, NDN, CsB, EK;E102, Ö025, biel, sp1, F003;nincs;duplaoras;nincscsoport;13:55-15:30 9;linear-gradient(126.693deg, rgb(255, 179, 179) 0%, rgb(255, 179, 179) 20%, rgb(192, 128, 192) 20%, rgb(192, 128, 192) 40%, rgb(128, 255, 255) 40%, rgb(128, 255, 255) 60%, rgb(238, 255, 203) 60%, rgb(238, 255, 203) 80%, rgb(245, 154, 131) 80%, rgb(245, 154, 131) 100%);
 11.D o;11.D oktatás;Szerda;Pedagógiai gyakorlat;MÁ;E103 (11.D);11.D oktatás OSZ;triplaoras;2csoport;07:50-10:20 1;rgb(230, 255, 255);
 11.D o;11.D oktatás;Szerda;Óvodai gyakorlat;CsSné;a;11.D oktatás ON;triplaoras;2csoport;07:50-10:20 3;rgb(128, 255, 128);
@@ -871,7 +871,7 @@
 11.D o;11.D oktatás;Csütörtök;Magyar nyelv;MKJ;E103 (11.D);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(220, 163, 209);
 11.D o;11.D oktatás;Csütörtök;Történelem;MK;E103 (11.D);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(224, 224, 128);
 11.D o;11.D oktatás;Csütörtök;Osztályfőnöki;MK;E103 (11.D);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(224, 224, 128);
-11.D o;11.D oktatás;Csütörtök;Testnevelés/Mozgáskultúra;FCSG;sp1;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(128, 230, 128);
+11.D o;11.D oktatás;Csütörtök;Testnevelés;FCSG;sp1;nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(128, 230, 128);
 11.D o;11.D oktatás;Péntek;Magyar irodalom;MKJ;E103 (11.D);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(220, 163, 209);
 11.D o;11.D oktatás;Péntek;Angol nyelv;KA;E102 (11.C);11.D angol A;egyoras;3csoport;08:40-09:25 2;rgb(255, 197, 255);
 11.D o;11.D oktatás;Péntek;Angol nyelv;KZs;t.angol;11.D angol B;egyoras;3csoport;08:40-09:25 2;rgb(179, 204, 255);
