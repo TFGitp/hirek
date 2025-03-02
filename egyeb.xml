@@ -1,21 +1,8 @@
 <tfg>
     <reklamok>
         <reklam>
-            <szoveg>
-                <![CDATA[
-                    <h1>Minecraftban a TFG!</h1>
-                ]]>
-            </szoveg>
-            <img>https://szupermenta.hu/wp-content/uploads/2019/11/honlap_szupermenta_termekteszt_07_vilagos_sor-1920x1034.jpg</img>
-            <ido>5</ido>
-        </reklam>
-        <reklam>
-            <szoveg>
-                <![CDATA[
-                    <h1>MinecrAAAAAAAAAAAAAAAAAAAAA!</h1>
-                ]]>
-            </szoveg>
-            <img>https://szerencsi-tokaji.cms.intezmeny.edir.hu/uploads/2024_09_30_19_08_07_06edefc395.png</img>
+            <szoveg></szoveg>
+            <img>https://cdn.discordapp.com/attachments/1345661313581318144/1345661340265611264/iratokelveszett.png</img>
             <ido>10</ido>
         </reklam>
     </reklamok>
