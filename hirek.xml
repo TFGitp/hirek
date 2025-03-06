@@ -8,10 +8,15 @@
     <p>Sziasztok! <span class="highlight">2025.02.14-én</span> a <span class="highlight">DÖK</span> jóvoltából ismét lehetőségetek lesz üzenetküldésre Valentin nap alkalmából, amit a segítőink kikézbesítenek.</p>
     <p><span class="highlight">2.3.4. óra után</span> a hátsó aulában tudjátok megírni az üzeneteket. Első oldalra írjátok, akinek üzened, és az osztályát. A belső oldalra pedig azt, amit üzensz neki!</p>
     <p><span class="highlight">Gyertek és üzenjetek!</span></p>
-    <p>Szeretettel: <span class="highlight">DÖK</span></p>
-        <img style="height: 800px; weight: 800px" src="https://www.hiper-com.com/assets/components/phpthumbof/cache/heart.1c5c900c9a4c8693141f40771acc8b21.png" alt="Valentin napi kép">]]>
+    <p>Szeretettel: <span class="highlight">DÖK</span></p>]]>
            </szoveg>
-           <img>https://www.hiper-com.com/assets/components/phpthumbof/cache/heart.1c5c900c9a4c8693141f40771acc8b21.png</img>
+           <coverimg>https://www.hiper-com.com/assets/components/phpthumbof/cache/heart.1c5c900c9a4c8693141f40771acc8b21.png</coverimg>
+           <gallery>
+                <title>Valentin</title>
+                <images>
+                    <img>https://www.hiper-com.com/assets/components/phpthumbof/cache/heart.1c5c900c9a4c8693141f40771acc8b21.png</img>
+                </images>
+            </gallery>
            <datum></datum>
         </hir>
     </hirek>
