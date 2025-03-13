@@ -105,7 +105,7 @@
 9.B t;9.B turizmus;Hétfő;Magyar nyelv;JCsIné;F005 (9.B);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(128, 128, 255);
 9.B t;9.B turizmus;Hétfő;Magyar felzárkóztató;TÁ;F004 (9.A);9.A magyar felz, 9.B magyar felz;egyoras;2csoport;13:55-14:40 8;rgb(255, 179, 179);
 9.B t;9.B turizmus;Kedd;Munkavállalói ismeretek;TEJ;F005 (9.B);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(128, 138, 224);
-9.B t;9.B turizmus;Kedd;Kötelező komplex természettudományos tantárgy;LJ;kémia;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(192, 255, 255);
+9.B t;9.B turizmus;Kedd;Kktt;LJ;kémia;nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(192, 255, 255);
 9.B t;9.B turizmus;Kedd;Testnevelés;JZs;sp5;nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 192, 128);
 9.B t;9.B turizmus;Kedd;Magyar irodalom;JCsIné;F005 (9.B);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(128, 128, 255);
 9.B t;9.B turizmus;Kedd;Történelem;AJE;F005 (9.B);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(247, 150, 136);
@@ -118,10 +118,10 @@
 9.B t;9.B turizmus;Szerda;Matematika;OSzZs;Ö012 Fizika (12.F);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(255, 128, 192);
 9.B t;9.B turizmus;Szerda;Történelem;AJE;F005 (9.B);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(247, 150, 136);
 9.B t;9.B turizmus;Szerda;Digitális kultúra;BPÉ;Inf1-ecdl;nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(249, 209, 134);
-9.B t;9.B turizmus;Szerda;Kötelező komplex természettudományos tantárgy;LJ;E105 (9.E);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(192, 255, 255);
+9.B t;9.B turizmus;Szerda;Kktt;LJ;E105 (9.E);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(192, 255, 255);
 9.B t;9.B turizmus;Csütörtök;A munka világa;TEJ;E204 (12.E);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(128, 138, 224);
 9.B t;9.B turizmus;Csütörtök;Termelési, értékesítési és turisztikai alapismeretek;TEJ;E204 (12.E);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(128, 138, 224);
-9.B t;9.B turizmus;Csütörtök;Kötelező komplex természettudományos tantárgy;LJ;F005 (9.B);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 255, 255);
+9.B t;9.B turizmus;Csütörtök;Kktt;LJ;F005 (9.B);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 255, 255);
 9.B t;9.B turizmus;Csütörtök;Matematika;OSzZs;F005 (9.B);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(255, 128, 192);
 9.B t;9.B turizmus;Csütörtök;Osztályfőnöki;AJE;F005 (9.B);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(247, 150, 136);
 9.B t;9.B turizmus;Csütörtök;Magyar nyelv;JCsIné;E204 (12.E);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(128, 128, 255);
@@ -164,7 +164,7 @@
 9.C g;9.C gazdálkodás;Szerda;Angol nyelv;MJAO;E204 (12.E);9.C angol B;egyoras;3csoport;10:30-11:15 4;rgb(179, 179, 179);
 9.C g;9.C gazdálkodás;Szerda;Német nyelv;CsG;F005 (9.B);9.A német2 B, 9.B német2 B, 9.C német, 9.E német, 9.F német;egyoras;3csoport;10:30-11:15 4;rgb(179, 255, 255);
 9.C g;9.C gazdálkodás;Szerda;Angol nyelv;KZs;E203 (9.C);9.C angol A;egyoras;3csoport;10:30-11:15 4;rgb(179, 204, 255);
-9.C g;9.C gazdálkodás;Szerda;Kötelező komplex természettudományos tantárgy;LJ;E203 (9.C);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 255, 255);
+9.C g;9.C gazdálkodás;Szerda;Kktt;LJ;E203 (9.C);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 255, 255);
 9.C g;9.C gazdálkodás;Szerda;Történelem;DOB;E203 (9.C);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(179, 179, 255);
 9.C g;9.C gazdálkodás;Szerda;Magyar irodalom;GZ;E203 (9.C);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(255, 255, 128);
 9.C g;9.C gazdálkodás;Szerda;Digitális kultúra;BPÉ;Inf2-prog;9.C digi A;egyoras;2csoport;13:55-14:40 8;rgb(249, 209, 134);
@@ -173,7 +173,7 @@
 9.C g;9.C gazdálkodás;Csütörtök;Digitális alkalmazások;GyM;Inf1-ecdl;9.C diga A;egyoras;2csoport;07:50-08:35 1;rgb(252, 246, 131);
 9.C g;9.C gazdálkodás;Csütörtök;Gazdasági és jogi alapismeretek;TPB;Inf1-ecdl;9.C gazdjog B;duplaoras;2csoport;08:40-10:20 2;rgb(255, 230, 255);
 9.C g;9.C gazdálkodás;Csütörtök;Gazdasági és jogi alapismeretek;ToG;Inf2-prog;9.C gazdjog A;duplaoras;2csoport;08:40-10:20 3;rgb(204, 204, 204);
-9.C g;9.C gazdálkodás;Csütörtök;Kötelező komplex természettudományos tantárgy;LJ;biel;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(192, 255, 255);
+9.C g;9.C gazdálkodás;Csütörtök;Kktt;LJ;biel;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(192, 255, 255);
 9.C g;9.C gazdálkodás;Csütörtök;Matematika;KG;E203 (9.C);nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 128, 192);
 9.C g;9.C gazdálkodás;Csütörtök;Angol nyelv;MJAO;F003 (11.A);9.C angol B;egyoras;3csoport;12:15-13:00 6;rgb(179, 179, 179);
 9.C g;9.C gazdálkodás;Csütörtök;Német nyelv;CsG;F005 (9.B);9.A német2 B, 9.B német2 B, 9.C német, 9.E német, 9.F német;egyoras;3csoport;12:15-13:00 6;rgb(179, 255, 255);
@@ -182,12 +182,12 @@
 9.C g;9.C gazdálkodás;Csütörtök;Honvédelmi alapismeretek szakkör;SZaT;F004 (9.A);9.A hon, 9.B hon, 9.C hon, 9.E hon, 9.F hon;egyoras;2csoport;13:55-14:40 8;rgb(128, 255, 192);
 9.C g;9.C gazdálkodás;Péntek;Történelem;DOB;E203 (9.C);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(179, 179, 255);
 9.C g;9.C gazdálkodás;Péntek;Matematika;KG;E203 (9.C);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(192, 128, 192);
-9.C g;9.C gazdálkodás;Péntek;Kötelező komplex természettudományos tantárgy;LJ;E203 (9.C);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 255, 255);
+9.C g;9.C gazdálkodás;Péntek;Kktt;LJ;E203 (9.C);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(192, 255, 255);
 9.C g;9.C gazdálkodás;Péntek;Testnevelés;CsB;sp5;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(238, 255, 203);
 9.C g;9.C gazdálkodás;Péntek;Magyar irodalom;GZ;E203 (9.C);nincs;duplaoras;nincscsoport;11:25-13:00 6;rgb(255, 255, 128);
 9.C g;9.C gazdálkodás;Péntek;Magyar felzárkóztató;GZ;E105 (9.E);9.C magyar felz, 9.E magyar felz;egyoras;2csoport;13:05-13:50 7;rgb(255, 255, 128);
 
-9.E i;9.E informatika-oktatás;Hétfő;Kötelező komplex természettudományos tantárgy;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(249, 209, 134);
+9.E i;9.E informatika-oktatás;Hétfő;Kktt;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(249, 209, 134);
 9.E i;9.E informatika-oktatás;Hétfő;Élménypedagógia;MTE;E105 (9.E);9.E oktatás;egyoras;2csoport;08:40-09:25 2;rgb(128, 224, 255);
 9.E i;9.E informatika-oktatás;Hétfő;Matematika;KHGy;F002 (12.A);9.E info;egyoras;2csoport;08:40-09:25 2;rgb(230, 179, 128);
 9.E i;9.E informatika-oktatás;Hétfő;Munkavállalói ismeretek;HD;E105 (9.E);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(128, 216, 128);
@@ -237,7 +237,7 @@
 9.E i;9.E informatika-oktatás;Csütörtök;Angol nyelv;EHZ;F004 (9.A);9.E angol B;egyoras;3csoport;12:15-13:00 6;rgb(255, 192, 128);
 9.E i;9.E informatika-oktatás;Csütörtök;Német nyelv;CsG;F005 (9.B);9.A német2 B, 9.B német2 B, 9.C német, 9.E német, 9.F német;egyoras;3csoport;12:15-13:00 6;rgb(179, 255, 255);
 9.E i;9.E informatika-oktatás;Csütörtök;Angol nyelv;DNM;E105 (9.E);9.E angol A;egyoras;3csoport;12:15-13:00 6;rgb(255, 255, 230);
-9.E i;9.E informatika-oktatás;Csütörtök;Kötelező komplex természettudományos tantárgy;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(249, 209, 134);
+9.E i;9.E informatika-oktatás;Csütörtök;Kktt;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;13:05-13:50 7;rgb(249, 209, 134);
 9.E i;9.E informatika-oktatás;Csütörtök;Honvédelmi alapismeretek szakkör;SZaT;F004 (9.A);9.A hon, 9.B hon, 9.C hon, 9.E hon, 9.F hon;egyoras;2csoport;13:55-14:40 8;rgb(128, 255, 192);
 9.E i;9.E informatika-oktatás;Péntek;Digitális kultúra;HD;inf5-gep;9.E oktatás;egyoras;2csoport;07:50-08:35 1;rgb(128, 216, 128);
 9.E i;9.E informatika-oktatás;Péntek;Magyar irodalom;TFG;E105 (9.E);9.E info;duplaoras;2csoport;07:50-09:25 1;rgb(224, 138, 255);
@@ -246,7 +246,7 @@
 9.E i;9.E informatika-oktatás;Péntek;Matematika;KHGy;E216 (12.B);9.E info;egyoras;2csoport;08:40-09:25 2;rgb(230, 179, 128);
 9.E i;9.E informatika-oktatás;Péntek;Magyar nyelv;TÁ;E105 (9.E);9.E oktatás;egyoras;2csoport;09:35-10:20 3;rgb(255, 179, 179);
 9.E i;9.E informatika-oktatás;Péntek;Digitális kultúra;KTA;Inf1-ecdl;9.E info;egyoras;2csoport;09:35-10:20 3;rgb(255, 192, 192);
-9.E i;9.E informatika-oktatás;Péntek;Kötelező komplex természettudományos tantárgy;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(249, 209, 134);
+9.E i;9.E informatika-oktatás;Péntek;Kktt;BPÉ;E105 (9.E);nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(249, 209, 134);
 9.E i;9.E informatika-oktatás;Péntek;Játékos személyiségfejlesztés;MÁ;E105 (9.E);9.E oktatás;egyoras;2csoport;11:25-12:10 5;rgb(230, 255, 255);
 9.E i;9.E informatika-oktatás;Péntek;Informatikai és távközlési alapok I.;HD;Inf1-ecdl;9.E info;egyoras;2csoport;11:25-12:10 5;rgb(128, 216, 128);
 9.E i;9.E informatika-oktatás;Péntek;Magyar felzárkóztató;GZ;E105 (9.E);9.C magyar felz, 9.E magyar felz;egyoras;2csoport;12:15-13:00 6;rgb(255, 255, 128);
@@ -260,7 +260,7 @@
 9.F r;9.F rendészet-sport;Hétfő;Német nyelv;CsG;E215 (10.E);9.C német, 9.E német, 9.F német;egyoras;3csoport;11:25-12:10 5;rgb(179, 255, 255);
 9.F r;9.F rendészet-sport;Hétfő;Angol nyelv;KA;E213 (9.F);9.F angol A;egyoras;3csoport;11:25-12:10 5;rgb(255, 197, 255);
 9.F r;9.F rendészet-sport;Hétfő;Angol nyelv;SzM;E205 (10.C);9.F angol B;egyoras;3csoport;11:25-12:10 5;rgb(173, 173, 255);
-9.F r;9.F rendészet-sport;Hétfő;Kötelező komplex természettudományos tantárgy;LJ;E213 (9.F);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(192, 255, 255);
+9.F r;9.F rendészet-sport;Hétfő;Kktt;LJ;E213 (9.F);nincs;egyoras;nincscsoport;12:15-13:00 6;rgb(192, 255, 255);
 9.F r;9.F rendészet-sport;Hétfő;Magyar nyelv;GZ;E213 (9.F);9.F magyar A;egyoras;2csoport;13:05-13:50 7;rgb(255, 255, 128);
 9.F r;9.F rendészet-sport;Hétfő;Magyar nyelv;GyM;E204 (12.E);9.F magyar B;egyoras;2csoport;13:05-13:50 7;rgb(252, 246, 131);
 9.F r;9.F rendészet-sport;Hétfő;Matematika felzárkóztató;ELZ;E213 (9.F);9.F mat felz;egyoras;2csoport;13:55-14:40 8;rgb(204, 255, 179);
@@ -295,7 +295,7 @@
 9.F r;9.F rendészet-sport;Csütörtök;Munkavállalói ismeretek;KTA;E213 (9.F);nincs;egyoras;nincscsoport;09:35-10:20 3;rgb(255, 192, 192);
 9.F r;9.F rendészet-sport;Csütörtök;Magyar irodalom;GZ;E213 (9.F);9.F magyar A;egyoras;2csoport;10:30-11:15 4;rgb(255, 255, 128);
 9.F r;9.F rendészet-sport;Csütörtök;Magyar irodalom;GyM;E215 (10.E);9.F magyar B;egyoras;2csoport;10:30-11:15 4;rgb(252, 246, 131);
-9.F r;9.F rendészet-sport;Csütörtök;Kötelező komplex természettudományos tantárgy;LJ;kémia;nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 255, 255);
+9.F r;9.F rendészet-sport;Csütörtök;Kktt;LJ;kémia;nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(192, 255, 255);
 9.F r;9.F rendészet-sport;Csütörtök;Angol nyelv;KA;E213 (9.F);9.F angol A;egyoras;3csoport;12:15-13:00 6;rgb(255, 197, 255);
 9.F r;9.F rendészet-sport;Csütörtök;Angol nyelv;SzM;E301 (10.B);9.F angol B;egyoras;3csoport;12:15-13:00 6;rgb(173, 173, 255);
 9.F r;9.F rendészet-sport;Csütörtök;Német nyelv;CsG;F005 (9.B);9.A német2 B, 9.B német2 B, 9.C német, 9.E német, 9.F német;egyoras;3csoport;12:15-13:00 6;rgb(179, 255, 255);
@@ -303,7 +303,7 @@
 9.F r;9.F rendészet-sport;Csütörtök;Matematika;BAI;E213 (9.F);9.F matematika A;egyoras;2csoport;13:05-13:50 7;rgb(238, 255, 203);
 9.F r;9.F rendészet-sport;Csütörtök;Honvédelmi alapismeretek szakkör;SZaT;F004 (9.A);9.A hon, 9.B hon, 9.C hon, 9.E hon, 9.F hon;egyoras;2csoport;13:55-14:40 8;rgb(128, 255, 192);
 9.F r;9.F rendészet-sport;Péntek;Testnevelés;FGy;sp3;nincs;egyoras;nincscsoport;07:50-08:35 1;rgb(128, 208, 224);
-9.F r;9.F rendészet-sport;Péntek;Kötelező komplex természettudományos tantárgy;LJ;E213 (9.F);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(192, 255, 255);
+9.F r;9.F rendészet-sport;Péntek;Kktt;LJ;E213 (9.F);nincs;egyoras;nincscsoport;08:40-09:25 2;rgb(192, 255, 255);
 9.F r;9.F rendészet-sport;Péntek;Magyar nyelv;GZ;E213 (9.F);9.F magyar A;egyoras;2csoport;09:35-10:20 3;rgb(255, 255, 128);
 9.F r;9.F rendészet-sport;Péntek;Magyar nyelv;GyM;E202 (10.F);9.F magyar B;egyoras;2csoport;09:35-10:20 3;rgb(252, 246, 131);
 9.F r;9.F rendészet-sport;Péntek;Gimnasztika I.;FCSG;sp2;9.F sport;egyoras;2csoport;10:30-11:15 4;rgb(128, 230, 128);
