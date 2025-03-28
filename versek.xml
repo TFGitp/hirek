@@ -418,5 +418,22 @@
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
             <datum>2025.02.28</datum>
         </vers>
+
+
+        <vers>
+            <id>felelema</id>
+            <szerzo>Nincsa</szerzo>
+            <cim>Félelema</cim>
+            <szoveg>
+            <![CDATA[
+            CSAK TESZT
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verskotet>nincsa</verskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.28</datum>
+        </vers>
     </versek>
 </tfg>
