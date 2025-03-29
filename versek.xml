@@ -430,14 +430,14 @@
             </szoveg>
             <tag>Vers</tag>
             <classtag>vers</classtag>
-            <verskotet>niaasndasdcsa</verskotet>
+            <verskotet>vesperazentitkom</verskotet>
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
             <datum>2025.03.28</datum>
         </vers>
     </versek>
     <verseskotetek>
         <verseskotet>
-            <id>vesper</id>
+            <id>vesperazentitkom</id>
             <szerzo>Vesper</szerzo>
             <cim>Az én titkom</cim>
             <tag>Verseskötet</tag>
