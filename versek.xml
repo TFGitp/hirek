@@ -435,15 +435,15 @@
             <datum>2025.03.28</datum>
         </vers>
     </versek>
-    <verskotetek>
-        <verskotet>
+    <verseskotetek>
+        <verseskotet>
             <id>vesper</id>
             <szerzo>Vesper</szerzo>
             <cim>Az én titkom</cim>
-            <tag>Verskötet</tag>
-            <classtag>verskotet</classtag>
+            <tag>Verseskötet</tag>
+            <classtag>verseskotet</classtag>
             <img>https://m.blog.hu/ma/martensmesek/image/books-book-pages-read-literature-159866.jpeg</img>
             <datum>2025.03.29></datum>
-        </verskotet>
-    </verskotetek>
+        </verseskotet>
+    </verseskotetek>
 </tfg>
