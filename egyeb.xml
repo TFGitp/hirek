@@ -64,7 +64,7 @@
         .vers {
             background-color: rgba(19, 131, 201);
         }
-        .verskotet {
+        .verseskotet {
             background-color: rgb(235, 172, 15);
         }
         .valentin {
