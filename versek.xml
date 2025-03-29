@@ -393,23 +393,22 @@
             <cim>Félelem</cim>
             <szoveg>
             <![CDATA[
-            Félelem, te vagy, ki egyedül hagy,<br>
-            Miattad van a magány, a bánat.<br>
-            Minden veled indul,<br>
-            És veled ér véget.<br>
-            Félni a haláltól?<br>
-            Ugyan! Ki fél tőle?!<br>
-            Egyszer úgyis eljön,<br>
-            Hiszen meg van írva.<br>
-            Mindenkinek annyit jut,<br>
-            Amit előre leírtak.<br><br>
-            
-            Azért írom ezt,<br>
-            Mert érzem a jövőt,<br>
-            Érzem a bánatot,<br>
-            Érzem a magányt.<br>
-            Mindenem, mim marad,<br>
-            Az a depresszióm és a zenék.<br>
+                Félelem, te vagy, ki egyedül hagy,<br>
+                Miattad van a magány, a bánat.<br>
+                Minden veled indul,<br>
+                És veled ér véget.<br>
+                Félni a haláltól?<br>
+                Ugyan! Ki fél tőle?!<br>
+                Egyszer úgyis eljön,<br>
+                Hiszen meg van írva.<br>
+                Mindenkinek annyit jut,<br>
+                Amit előre leírtak.<br><br>
+                Azért írom ezt,<br>
+                Mert érzem a jövőt,<br>
+                Érzem a bánatot,<br>
+                Érzem a magányt.<br>
+                Mindenem, mim marad,<br>
+                Az a depresszióm és a zenék.<br>
             ]]>
             </szoveg>
             <tag>Vers</tag>
@@ -418,36 +417,279 @@
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
             <datum>2025.02.28</datum>
         </vers>
-
         <vers>
-            <id>felelema</id>
-            <szerzo>Nincsa</szerzo>
-            <cim>Félelema</cim>
+            <id>vespermegismerlek</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Megismerlek</cim>
             <szoveg>
             <![CDATA[
-            CSAK TESZT
+                Először csak egy név voltál,<br>
+                egy mosoly, mely a fényben száll,<br>
+                egy szó a csendes éj keblén,<br>
+                mi mégis itt maradt belém.<br><br>
+                Aztán kérdések jöttek sorra,<br>
+                válaszod, mint napfény forra,<br>
+                minden mondat új világ,<br>
+                s bennem mély nyomot hagy reád.<br><br>
+                Megtanultam hangod dallamát,<br>
+                a nevetésed szép zaját,<br>
+                s hogy néha csended többet ér,<br>
+                mint száz kimondott szó, mi vér.<br><br>
+                Most azt hiszem, hogy ismerlek,<br>
+                bár minden nap valami újat rejteget,<br>
+                hisz történetünk végtelen,<br>
+                és együtt írjuk éppen fenn.<br>
             ]]>
             </szoveg>
             <tag>Vers</tag>
             <classtag>vers</classtag>
             <verseskotet>vesperazentitkom</verseskotet>
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
-            <datum>2025.03.28</datum>
+            <datum>2025.03.29</datum>
         </vers>
         <vers>
-            <id>felelemaiii</id>
-            <szerzo>Nincsaii</szerzo>
-            <cim>Félelemaii</cim>
+            <id>vesperharomoraveled</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Három óra veled</cim>
             <szoveg>
             <![CDATA[
-            CSAK TESZT 2
+                Minden nap délután várlak,<br>
+                időnk száll, akár a szárnyak.<br>
+                Három óra ennyi jár,<br>
+                mégis mindig csodát vár.<br><br>
+                Kéz a kézben sétálunk,<br>
+                néha csendben megállunk.<br>
+                Nevetsz, és én elveszek,<br>
+                bennem dallá lesz neved.<br><br>
+                Minden percünk gyorsan illan,<br>
+                akár szél a régi hídban.<br>
+                Búcsúzunk, de nem soká,<br>
+                holnap újra vársz reám.<br>
             ]]>
             </szoveg>
             <tag>Vers</tag>
             <classtag>vers</classtag>
             <verseskotet>vesperazentitkom</verseskotet>
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
-            <datum>2025.03.28</datum>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vesperalomutazas</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Álomutazás</cim>
+            <szoveg>
+            <![CDATA[
+                Veled indulok, messze, túl az égen,<br>
+                ahol a völgyek elterültek régen.<br>
+                Egy titkos szigetre, hol a szél mesél,<br>
+                s a tenger csókja lágyan hozzánk beszél.<br><br>
+                Nincs térképünk, de nem is kell,<br>
+                csak te meg én, ez így megfelel.<br>
+                A csillagok fénye mutatja az utat,<br>
+                s a hajnal érintése halkan simogat.<br><br>
+                Egy hegytetőn táncol a reggel,<br>
+                aranyló fényben játszik a tenger,<br>
+                s mi kéz a kézben lépünk tovább,<br>
+                hogy felfessük együtt álmaink táját.<br><br>
+                Mert bárhol járunk, veled otthon vagyok,<br>
+                minden út egy csoda, ha veled indulok.<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vesperorokkeessoha</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Örökké és soha</cim>
+            <szoveg>
+            <![CDATA[
+                Kezed kezemben, szívünk egy,<br>
+                a mi sorsunk össze megy.<br>
+                Veled a perc is végtelen,<br>
+                s az éj is nappallá lesz hirtelen.<br>
+                Csillagok őrzik álmunkat,<br>
+                sóhajunk szélben szárnyra kap.<br>
+                Lelkünk egy dallam, tiszta fény,<br>
+                örökké tart, sosem ér véget még.<br><br>
+                Tavaszi szellők suttogják,<br>
+                örök hűségünk dallamát.<br>
+                Nem választ el se ég, se föld,<br>
+                karjaid védnek, s nem gyötör.<br>
+                Ígéreted, mint kő, szilárd,<br>
+                hitem benned mélyen kitárt.<br>
+                Nem érhet vég, nem jön vihar,<br>
+                szerelmünk él, s sosem hal.<br><br>
+                Látod? Az ég is ránk hajol,<br>
+                a nap nekünk szebben ragyog.<br>
+                A tenger zúg, de nem sodor,<br>
+                együtt állunk a partokon.<br>
+                Bármerre nézek, téged látlak,<br>
+                minden ponton téged várlak.<br>
+                Nincs félelem, nincs elmúlás,<br>
+                csak örök fény és tiszta megújulás.<br><br>
+                Fogd a kezem, szorítsd erősen,<br>
+                ne hagyj elveszni az időben.<br>
+                Nincs olyan szó, mi szétszakít,<br>
+                nincs olyan perc, mi eltaszít.<br>
+                Eskünk örök, írásba vésve,<br>
+                nem törheti sorsnak lépte.<br>
+                Szeretlek téged, bármi jöjjön,<br>
+                szívem örökre nálad őrködjön.<br><br>
+                De lám, az idő szétmar, éget,<br>
+                s elhal a szó, hiába kéred.<br>
+                A kéz, mi egykor ölelt, remeg,<br>
+                s egy érintés már nem lehet.<br>
+                Az ég sötét, a nap fakó,<br>
+                a tenger zúg, de már vadul szól.<br>
+                Nincs több ígéret, nincs több hit,<br>
+                csak halk magány és árnyaink.<br><br>
+                Egy úton jártunk, most két irány,<br>
+                nem fogod kezem, nem vársz már.<br>
+                A szél suttog, de mást mesél,<br>
+                hogy nincs már hely, hogy nincs remény.<br>
+                A csillagok halványan égnek,<br>
+                nem értik ők sem, miért lett véged.<br>
+                Hol volt a fény? Hová tűnt el?<br>
+                Miért lett semmivé, ami öröknek kell?<br><br>
+                A parton állok, nincs velem senki,<br>
+                a hullámok már nem akarnak visszavinni.<br>
+                Egyedül nézem a múltunk nyomát,<br>
+                a homok elnyeli, s viszi tovább.<br>
+                A hűség kő volt, de porrá lett,<br>
+                a szélben sem maradt semmilyen jel.<br>
+                Így múlik el, mi öröknek hittem,<br>
+                s marad a csend, a néma szívem.<br><br>
+                Talán majd egyszer, egy másik ég,<br>
+                egy másik élet, egy másik fény,<br>
+                talán ott vársz rám újra te,<br>
+                s akkor már nem múlik semmi se.<br>
+                De most az út ketté szakadt,<br>
+                s a sorsunk más fele halad.<br>
+                Örökké nem lett, mégsem soha,<br>
+                csak elnyelt minket az éj homoka.<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vesperestiseta</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Esti séta</cim>
+            <szoveg>
+            <![CDATA[
+                Fényesen égnek a lámpák,<br>
+                a hold megirigyelhetné hangját.<br>
+                Sétálunk míg tart az est,<br>
+                arcomra mosolyt fest.<br><br>
+                Beszélgetésünk végtelen,<br>
+                meddig tart viszont rejtelem.<br>
+                Az út min járunk sose ér véget,<br>
+                szeretnélek többet látni téged.<br><br>
+                Az idő gyorsan ketyeg,<br>
+                mikor ölellek testem remeg.<br>
+                Vajon a sors akarta ezt?<br>
+                vagy ez az élet olyan mint egy teszt?<br><br>
+                Kérdések de nincsenek válaszok,<br>
+                az időnk letelt, ezek már csak álmok.<br>
+                Lassan sétálsz tovább egyedül,<br>
+                s várok rád míg visszatérsz végül.<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vespertavolikozelseg</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Távoli közelség</cim>
+            <szoveg>
+            <![CDATA[
+                Egy szó, egy hang, mi messze száll,<br>
+                de bennem mindig megtalál.<br>
+                Távol vagy, mégis itt vagyok,<br>
+                lelkemhez érsz, ha szólhatok.<br><br>
+                Nevetésed, mint szél, ha fúj,<br>
+                meleg, de halkan elcsitul.<br>
+                Szeretném néha megfogni,<br>
+                nem csak a csendben hordozni.<br><br>
+                Barátság ez? Vagy annál több?<br>
+                Egy érzés, mely a mélybe lök,<br>
+                vagy épp a csillagokba húz,<br>
+                s a szívem titkon válaszúl.<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vesperketszivkozott</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Két szív között</cim>
+            <szoveg>
+            <![CDATA[
+                Egy lány áll a hajnalban csendesen,<br>
+                szívében vihar dúl, féktelen.<br>
+                Mellette egy fiú, halkan beszél,<br>
+                de szavai már nem égnek, mint a tűz, nem kísér.<br><br>
+                Kezét még fogja, de nincs benne láng,<br>
+                csak halvány emlék, egy kihűlt világ.<br>
+                Csókjai édesek, mégis ridegek,<br>
+                érzi, hogy lassan véget érnek.<br><br>
+                De ott egy másik, ki titkon szeret,<br>
+                szemeiben égő remény remeg.<br>
+                Minden mosolyt és minden könnyet<br>
+                őriz magában, s mégsem dönthet.<br><br>
+                Két szív között reked a lány,<br>
+                egyik hűvös, másik láng.<br>
+                Melyik úton induljon el?<br>
+                A múltba nézzen, vagy szálljon el?<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
+        </vers>
+        <vers>
+            <id>vesperorokszerelem</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Örök szerelem</cim>
+            <szoveg>
+            <![CDATA[
+                Lelked, mint a lágy tavaszi szél,<br>
+                melegséget hoz, s bennem zenél.<br>
+                Szemedben csillan az égi fény,<br>
+                álmaimban ott vagy te minden részén.<br><br>
+                Kezed ha érint, a szívem remeg,<br>
+                bennem a vágy egy dallamot melenget.<br>
+                Hangod ha hallom, a világ szebb,<br>
+                nélküled minden csak árnyék és csend.<br><br>
+                Te vagy az éj és te vagy a nap,<br>
+                szívemben lángod örökké marad.<br>
+                Időn és téren túl vezető út,<br>
+                ahol a lelkünk egymásra jut.<br>
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.29</datum>
         </vers>
     </versek>
 
