@@ -419,7 +419,6 @@
             <datum>2025.02.28</datum>
         </vers>
 
-
         <vers>
             <id>felelema</id>
             <szerzo>Nincsa</szerzo>
@@ -429,11 +428,22 @@
             CSAK TESZT
             ]]>
             </szoveg>
-            <tag>Verskötet</tag>
-            <classtag>verskotet</classtag>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
             <verskotet>niaasndasdcsa</verskotet>
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
             <datum>2025.03.28</datum>
         </vers>
     </versek>
+    <verskotetek>
+        <verskotet>
+            <id>vesper</id>
+            <szerzo>Vesper</szerzo>
+            <cim>Az én titkom</cim>
+            <tag>Verskötet</tag>
+            <classtag>verskotet</classtag>
+            <img>https://m.blog.hu/ma/martensmesek/image/books-book-pages-read-literature-159866.jpeg</img>
+            <datum>2025.03.29></datum>
+        </verskotet>
+    </verskotetek>
 </tfg>
