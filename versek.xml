@@ -434,6 +434,21 @@
             <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
             <datum>2025.03.28</datum>
         </vers>
+        <vers>
+            <id>felelemaiii</id>
+            <szerzo>Nincsaii</szerzo>
+            <cim>Félelemaii</cim>
+            <szoveg>
+            <![CDATA[
+            CSAK TESZT 2
+            ]]>
+            </szoveg>
+            <tag>Vers</tag>
+            <classtag>vers</classtag>
+            <verseskotet>vesperazentitkom</verseskotet>
+            <img>https://starlap.hu/wp-content/uploads/2023/05/irodalom-a-modern-civilizacioban.jpg</img>
+            <datum>2025.03.28</datum>
+        </vers>
     </versek>
 
     <verseskotetek>
@@ -444,7 +459,7 @@
             <tag>Verseskötet</tag>
             <classtag>verseskotet</classtag>
             <img>https://m.blog.hu/ma/martensmesek/image/books-book-pages-read-literature-159866.jpeg</img>
-            <datum>2025.03.29></datum>
+            <datum>2025.03.29</datum>
         </verseskotet>
     </verseskotetek>
 </tfg>
