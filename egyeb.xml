@@ -65,7 +65,7 @@
             background-color: rgba(19, 131, 201);
         }
         .verskotet {
-            background-color: rgb(69, 74, 223);
+            background-color: rgb(235, 172, 15);
         }
         .valentin {
             background-color: rgba(248, 25, 111, 0.5);
