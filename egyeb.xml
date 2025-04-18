@@ -12,7 +12,9 @@
       </hir>
     </fontoshir>
     <orarendv>
-        <uzenet>Néhány óra rossz helyre kerül, ezért kattints rá 1-2-szer, hogy lásd mikor kezdődik az adott óra!<br>Utoljára frissítve: 2025.02.23</uzenet>
+        <uzenet><![CDATA[
+            Néhány óra rossz helyre kerül, ezért kattints rá 1-2-szer, hogy lásd mikor kezdődik az adott óra!<br>Utoljára frissítve: 2025.02.23]]>
+        </uzenet>
     </orarendv>
     <beallitasok>
         <fohatter>
