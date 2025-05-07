@@ -1059,5 +1059,14 @@
 13.E i;13.E informatika;Hétfő;Szerverek és felhőszolgáltatások;EZ;Inf6-rajz;nincs;egyoras;nincscsoport;10:30-11:15 4;rgb(128, 192, 255);
 13.E i;13.E informatika;Hétfő;Hálózatok I.;HD;Inf6-rajz;nincs;egyoras;nincscsoport;11:25-12:10 5;rgb(128, 216, 128);
 
-13.F r;13.F rendészet és közszolgálat-sport;Hétfő;Egyéni kondícionálás;MB;k221-13.F;13.F sport;duplaoras;2csoport;undef-ned 10;rgb(204, 153, 153);
-13.F r;13.F rendészet és közszolgálat-sport;Hétfő;Csoportos és speciális óratípusok;FCSG;k221-13.F;13.F sport;duplaoras;2csoport;undef-ned 11;rgb(128, 230, 128);
+13.F r;13.F rendészet és közszolgálat-sport;Hétfő;Egyéni kondícionálás;MB;k221-13.F;13.F sport;duplaoras;2csoport;07:50-09:25 1;rgb(204, 153, 153);
+13.F r;13.F rendészet és közszolgálat-sport;Hétfő;Csoportos és speciális óratípusok;FCSG;k221-13.F;13.F sport;duplaoras;2csoport;09:35-10:20 2;rgb(128, 230, 128);
+
+12.A n;12.A nyelv;Hétfő;NINCS;NINCS;NINCS;NINCS;otoras;nincscsoport;07:50-15:30 5;rgb(236, 211, 164);
+
+12.B b;12.B biológia-belügy;Hetfő;NINCS;NINCS;NINCS;NINCS;otoras;nincscsoport;07:50-25:30 2;rgb(176, 138, 224);
+
+12.D p;12.D pedagógia;Hétfő;NINCS;NINCS;NINCS;nincs;otoras;nincscsoport;07:50-15:30 6;rgb(230, 179, 128);
+
+2/14;1/13-2/14/N/Oktatási szakasszisztens;Hétfő;NINCS;NINCS;NINCS;nincs;otoras;nincscsoport;07:50-15:30 5;rgb(255, 192, 224);
+
