@@ -14,9 +14,7 @@
     <orarendv>
         <uzenet>
             <![CDATA[
-                Az órarend funkció nem minden esetben működik tökéletesen: előfordul, hogy a tantárgyakat nem a megfelelő sorrendben helyezi el, ahol csoportos és többórás tantárgyak vannak. Például: 2-3-4 nyelvi csoportos óra van, amelyek több órásak. <br>
-                A kód újraírása több órát venne igénybe, ezért valószínűleg csak szeptember végére tudok ezzel foglalkozni. 
-                Ha ezt a hibát látod, addig javaslom, hogy nézd át a tantárgyaidat és a tanárok neveit, majd a "Tanárok" menüben keresd ki a megfelelő tanárt, így láthatod, melyik tanárral mikor van órád.
+                Az órarend nem minden esetben működik tökéletesen: előfordul, hogy a tantárgyakat nem a megfelelő sorrendben helyezi el, ahol csoportos és többórás tantárgyak vannak. Például: 2-3-4 nyelvi csoportos óra van, amelyek több órásak. <br>Kattints rá az adott tantárgyra, hogy pontos adatot kapj!
             ]]>
         </uzenet>
     </orarendv>
